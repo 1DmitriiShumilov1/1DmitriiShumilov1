@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**1DmitriiShumilov1/1DmitriiShumilov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am an Entry Level Web Developer who likes to capitalize every word in the phrase Entry Level Web Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on expanding my Resume and getting a job
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on any projects
+- 🤔 I’m looking for help with advanced JavaScript
+- 💬 Ask me about how I moved to the United States
+- 📫 How to reach me: dimashumilov32@gmail.com / IG: dima__shumilov
+- ⚡ Fun fact: I know how to ice skate backwards ⛸️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠My Webpage: [Dmitrii-shumilov.netlify.app](https://dmitrii-shumilov.netlify.app)
