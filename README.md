@@ -1,5 +1,8 @@
 # Hi there 👋
 
+
+![alt text](https://raw.githubusercontent.com/1DmitriiShumilov1/1DmitriiShumilov1/main/readme-bg.png "Logo Title Text 1")
+
 #### I am an Entry Level Web Developer who likes to capitalize every word in the phrase Entry Level Web Developer
 
 - 🔭 I’m currently working on expanding my Resume and getting a job
